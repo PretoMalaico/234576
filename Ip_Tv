@@ -1,0 +1,4 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63219_logo_sport_tv_7.png" group-title="PORTUGAL", Sport TV 1 HD
+https://p13.quest123.top:8088/live/h4er5/playlist.m3u8?id=106323&wowzasessionid=601608115&pk=1bdf84779a75e67b35dd92cb3e26adede704b38bfccf239a0fd7ba67461cf06e
